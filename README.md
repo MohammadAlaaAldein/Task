@@ -2,9 +2,13 @@ Task
 
 To Begin:
   1- Clone Repo
+  
   2- Open folder
+  
   3- In (cmd, bash) type npm install
+  
   4- when install done, type npm start
+  
   5- Enjoy ^_^
   
   Mohamamd Alaa Aldein
