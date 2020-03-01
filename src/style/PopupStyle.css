@@ -1,0 +1,15 @@
+.modal-body{
+  background-color: rgb(241, 241, 241);
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 45%;
+  left: 45.5%;
+  transform: translate(-50%, -50%) ;
+  border-radius: 2%;
+}
+
+.close{
+  float: right;
+  cursor: pointer;
+}
