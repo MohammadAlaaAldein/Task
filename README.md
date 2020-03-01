@@ -1,3 +1,14 @@
+Task
+
+To Begin:
+  1- Clone Repo
+  2- Open folder
+  3- In (cmd, bash) type npm install
+  4- when install done, type npm start
+  5- Enjoy ^_^
+  
+  Mohamamd Alaa Aldein
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
